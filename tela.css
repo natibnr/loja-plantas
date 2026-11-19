@@ -1,0 +1,182 @@
+body
+{
+    background-color: white;
+    font-family:'Raleway', sans-serif;
+    margin: 0;
+    padding: 5px;
+ 
+}
+
+.header{
+    display: flex;
+    align-items:center;
+    gap:500px;
+    justify-content: flex;
+}
+
+.icones{
+    gap:30px;
+    display: flex;
+   
+
+}
+
+.icones button{
+    background-color: white;
+    border: 2px solid rgb(0, 114, 34); 
+    color: #00521b;           
+    
+    border-radius: 50px;
+    height: 50px;
+    width: 200px;
+}
+
+.carrinho img{
+    width: 20px;
+    height: 20px;
+}
+
+h1 {
+    font-family:'Raleway';
+    color: #006400;
+    width: 100px;
+    font-size: 80px;
+ 
+}
+ 
+.telas{
+    align-items: end;
+    gap: 20px;
+    width: 500px;
+    display: flex;
+
+}
+
+.telas button{
+    background-color: rgba(255, 255, 255, 0.815);  
+    color: #0c5c19d5;           
+    border: 2px solid rgb(0, 114, 34); 
+    border-radius: 40px;
+    height: 50px;
+    width: 150px;
+   
+}
+
+.plantas{
+    background-color: #709e77;
+    width: 1700px;
+    align-items:flex-end;
+    display: flex;
+    justify-content: end;
+    gap: 300px;
+    width: 1900px;
+    height: 400px;
+}
+
+.plantas img{
+    width: 1000px;
+    height: 400px;
+}
+
+
+.texto{
+    width: 800px;
+    height: 400px;
+}
+
+.texto button{
+    background-color: white;  
+    color: #0c5c19;           
+    border: 2px solid rgb(255, 255, 255); 
+    border-radius: 50px;
+    width:300px;
+    height: 40px;
+}
+
+
+h2{
+    color: #ffffff;
+    width: 500px;
+    font-size: 60px;
+    text-align: left;
+    font-family:'Raleway';
+    align-content: block;
+   
+}
+
+p{
+    color: #ffffff;
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+    font-family:'arial';
+    
+   
+}
+
+main p{
+    color: #000000;
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+    font-family:'arial';
+    
+   
+}
+
+h3{
+    color: #000000;
+    width: 2100px;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Raleway';
+
+}  
+
+h4{
+    color: #000000;
+    width: 400px;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Raleway';
+
+
+}
+
+h5{
+    color: #056b05;
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+    font-family:'arial';
+
+}
+
+.plant{
+    display: flex;
+    justify-content: flex;
+    gap: 550px;
+
+}
+ 
+.planta {
+    width: 150px;
+    text-align: center;
+}
+ 
+.planta img {
+    width: 400px;
+    height: 400px;
+}
+
+.planta button{
+    background-color: rgb(10, 128, 20);  
+    color: #ffffff;           
+    border: 2px solid rgb(255, 255, 255); 
+    border-radius: 50px;
+    width:300px;
+    height: 40px;
+    align-items: center;
+}
+
+
